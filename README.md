@@ -4,7 +4,7 @@ Scrapy
 ##Using scrapy to scrape sites
 
 #Notes on spiders and spider creation in Scrapy:
-It is highly recommened to avoid scraping data on sites where there are user accounts like most e-commerce sites for example. It's much easier, faster and smarter to get root access to the server and/or direct access to the origin site's database.
+It is highly suggested to avoid scraping data on sites where there are user accounts like most e-commerce sites for example. It's much easier, faster and smarter to get root access to the server and/or direct access to the origin site's database.
 
 
 #Step 0: Learn Python
